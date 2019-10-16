@@ -28,7 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 	
-	</dependencies>
+<!-- 	</dependencies>
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
@@ -39,7 +39,7 @@
 		    <id>nexus</id>
 		    <url>http://172.31.15.236:8081/repository/maven-releases/</url>
 		</repository>
-  	</distributionManagement>
+  	</distributionManagement> -->
 	
 <build>
     <plugins>
